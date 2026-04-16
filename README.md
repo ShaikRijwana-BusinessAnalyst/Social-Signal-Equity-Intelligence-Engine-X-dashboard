@@ -150,20 +150,6 @@ Covers:
 
 ---
 
-## Repository Contents
-
-📁 social-signal-equity-intelligence-engine/
-│
-├── 📊 Social_Signal_Engine.pbix          — Full Power BI dashboard file
-├── 📂 data/
-│   └── social_signal_dataset.xlsx        — Cleaned dataset (47K+ rows)
-├── 📂 images/
-│   └── dashboard_screenshot.png          — Full dashboard preview
-├── 📂 video/
-│   └── executive_walkthrough.mp4         — 2-minute stakeholder briefing
-└── 📄 README.md                          — This document
----
-
 ## Connect
 
 **LinkedIn:** [www.linkedin.com/in/shaik-rijwana-6a8861290]  
