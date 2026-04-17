@@ -140,13 +140,8 @@ At 50% of the 169.60 danger ceiling, headline risk appears manageable. However, 
 
 ## Video Walkthrough
 
-▶️ **[Watch the 2-Minute Executive Briefing](video/social_signal_engine_walkthrough.mp4)**
+▶️ **[https://drive.google.com/file/d/1dnSD5Y1aVx1DU1kCoIxXhvlx9atIWBRQ/view?usp=drivesdk]**
 
-Covers:
-- Weighted Sentiment Index architecture and DAX logic
-- Live divergence warning interpretation
-- Weekend vulnerability window identification
-- Neutral-to-bearish hedge recommendation rationale
 
 ---
 
